@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Custom Keyboard Configurator**
 
-- 📫 How to reach me **Houman.HafezAlghoran@gmail.com**
+- 📫 reach me under **Houman.HafezAlghoran@gmail.com**
 
-- ⚡ Hobbies **I like Keyboards**
+- ⚡ **I like Keyboards**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
