@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Houman</h1>
-<h3 align="center">A passionate programmer from Germany</h3>
+<h1 align="center">Hi 👋, I'm Houman Hafez Alghoran</h1>
+<h3 align="center">A passionate 18 year old programmer from Germany</h3>
 
 - 🔭 I’m currently working on **Custom Keyboard Configurator**
 
