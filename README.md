@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **Custom Keyboard Configurator**
 
-- 📫 reach me under **Houman.HafezAlghoran@gmail.com**
-
 - ⚡ **I like Keyboards**
 
 <h3 align="left">Languages and Tools:</h3>
