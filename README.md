@@ -9,7 +9,7 @@
 
 - 📧 Reach me under **Houman.HafezAlghoran@gmail.com**
 
-- ⚡ Hobby **I like Keyboards**
+- ⚡ **I like Keyboards**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
