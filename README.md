@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [⌨️ Custom Keyboard Configurator](https://github.com/SpecialSpicy/Custom-Keyboard-Configurator) and [👟 Fashify](https://github.com/SpecialSpicy/Fashify)
 
-- 📖 I'm currently learning **Svelte, Web Development**
+- 📖 I'm currently learning **Svelte and Web Development**
 
 - 📧 Reach me under **Houman.HafezAlghoran@gmail.com**
 
