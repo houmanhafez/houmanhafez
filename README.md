@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from Germany</h3>
 
 
-- 🔭 I’m currently working on Python Quart Projects
+- 🔭 I’m currently working on **Python Quart Projects**
 
 - 📖 I'm currently learning **Python in Server Development**
 
