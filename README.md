@@ -2,13 +2,13 @@
 <h3 align="center">A passionate programmer from Germany</h3>
 
 
-- 🔭 I’m currently working on [⌨️ Custom Keyboard Configurator](https://github.com/SpecialSpicy/Custom-Keyboard-Configurator) and [👟 Fashify](https://github.com/SpecialSpicy/Fashify)
+- 🔭 I’m currently working on Python Quart Projects
 
-- 📖 I'm currently learning **Svelte and Web Development**
+- 📖 I'm currently learning **Python in Server Development**
 
 - 📧 Reach me under **Houman.HafezAlghoran@gmail.com**
 
-- ⚡ **I like Keyboards**
+- ⚡ **I like to Code :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
