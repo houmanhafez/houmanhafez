@@ -6,7 +6,7 @@
 
 - 📖 I'm currently learning **Python in Server Development**
 
-- 📧 Reach me under **Houman.HafezAlghoran@gmail.com**
+- 📧 Reach me under **Houman.Hafezalghoran@gmail.com**
 
 - ⚡ **I like to Code :D**
 
