@@ -8,8 +8,6 @@
 
 - 📧 Reach me under **Houman.Hafezalghoran@gmail.com**
 
-- ⚡ **I like to Code :D**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/houmanhafezalghoran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="houmanhafezalghoran" height="30" width="40" /></a>
