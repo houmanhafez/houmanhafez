@@ -1,10 +1,4 @@
 <h2 align="center">Hi , I'm Houman</h2>
-<h3 align="center">A passionate programmer from Germany</h3>
-
-
-- 🔭 I’m currently working on **Python Quart Projects**
-
-- 📖 I'm currently learning **Python in Server Development**
 
 - 📧 Reach me under **Houman.Hafezalghoran@gmail.com**
 
