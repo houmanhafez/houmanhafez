@@ -1,6 +1,6 @@
 <h2 align="center">Hi , I'm Houman</h2>
 
-- 📧 Reach me under **Houman.Hafezalghoran@gmail.com**
+- 📧 Reach me under **houman.hafezalghoran@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
