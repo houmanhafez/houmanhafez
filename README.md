@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working on an Expense Tracking App<br>Looking to collaborate on it to learn even more<br>currently learning django in more detail<br>I'm a Software Development Trainee at Smartlab
+- I'm currently working on an Expense Tracking App with Django
+- Looking to collaborate on it to learn even more<br>
+- I'm a Software Development Trainee at Smartlab
 
 
 ## 🌐 Socials:
