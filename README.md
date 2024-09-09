@@ -1,7 +1,7 @@
 # 💫 About Me:
 - I'm currently working on an Expense Tracking App with Django
 - Looking to collaborate on it to learn even more<br>
-- I'm a Software Development Apprentice at Smartlab Innovationsgesellschaft mbH
+- I'm a Software Development Apprentice at Smartlab innovationsgesellschaft mbH
 
 
 ## 🌐 Socials:
