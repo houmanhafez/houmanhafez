@@ -1,7 +1,8 @@
 # About Me:
-- I'm currently working on an Expense Tracking App with Django
-- Looking to collaborate on it to learn even more<br>
-- I'm a Software Development Apprentice at Smartlab innovationsgesellschaft mbH
+- I'm a 20 year old Software Dev with a few years of experience
+- Currently doing an Apprenticeship in NRW, Germany
+- Looking to help with or collaborate on projects  
+
 
 
 ## Socials:
