@@ -1,5 +1,5 @@
 # About Me:
-- I'm a 20 year old Apprentice Software Dev with a few years of experience
+- I'm a 20 year old Apprentice Software Dev with a bit of experience
 - Currently doing an Apprenticeship in NRW, Germany
 - Looking to help with or collaborate on projects  
 
