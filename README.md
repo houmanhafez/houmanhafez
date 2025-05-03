@@ -1,6 +1,5 @@
 # About Me:
-- I'm an Apprentice Software Dev with a bit of experience
-- Currently doing an Apprenticeship in NRW, Germany
+- Apprentice Software Dev
 - Looking to help with or collaborate on projects  
 
 # 💻 Languages & Frameworks I work with:
